@@ -14,3 +14,9 @@ exports.validateProducto = (req, res, next) => {
   next();
 };
 
+/*
+Joi es una librería de validación de datos para JavaScript que permite definir esquemas de validación de forma declarativa. 
+Se utiliza comúnmente en aplicaciones Node.js para validar datos de entrada, como por ejemplo, los datos enviados en una solicitud HTTP.
+
+*/
+
